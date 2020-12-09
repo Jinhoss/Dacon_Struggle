@@ -4,4 +4,4 @@
    
    + 마키아벨리즘 심리 테스트를 이용하여 투표 여부 예측(상위32%,AUC:0.78027,AutoML)
   
-   https://github.com/Jinhoss/Dacon_Struggle/tree/main/psy-test
+     https://github.com/Jinhoss/Dacon_Struggle/tree/main/psy-test
