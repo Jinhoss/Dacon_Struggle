@@ -7,4 +7,7 @@
      https://github.com/Jinhoss/Dacon_Struggle/tree/main/psy-test    
             
             
-  ## 2. 소설 작가 분류 AI 경진대회(20.10.29~20.12.04, https://dacon.io/competitions/official/235670/overview/)
+  ## 2. 소설 작가 분류 AI 경진대회(20.10.29~20.12.04, https://dacon.io/competitions/official/235670/overview/)  
+    + 문체분석을 통한 소설 작가 분류(상위4%,log-loss:0.169,Cat-boost)
+    + TF-IDF행렬변환 후 잠재의미분석
+    + MNB,LGBM Stacking 후 최종모델 Catboost 사용
