@@ -5,5 +5,6 @@
    + Classification
   
      https://github.com/Jinhoss/Dacon_Struggle/tree/main/psy-test  
-    
+     
+        
   ## 2. 소설 작가 분류 AI 경진대회(20.10.29~20.12.04, https://dacon.io/competitions/official/235670/overview/)
